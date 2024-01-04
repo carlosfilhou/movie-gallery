@@ -11,6 +11,7 @@
 		DF9CE68D2B43CE5600ED76DB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF9CE68C2B43CE5600ED76DB /* ContentView.swift */; };
 		DF9CE68F2B43CE5800ED76DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF9CE68E2B43CE5800ED76DB /* Assets.xcassets */; };
 		DF9CE6922B43CE5800ED76DB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF9CE6912B43CE5800ED76DB /* Preview Assets.xcassets */; };
+		DF9CE6992B43CFEC00ED76DB /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF9CE6982B43CFEC00ED76DB /* ColorExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		DF9CE68C2B43CE5600ED76DB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DF9CE68E2B43CE5800ED76DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DF9CE6912B43CE5800ED76DB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DF9CE6982B43CFEC00ED76DB /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				DF9CE68A2B43CE5600ED76DB /* MovieGalleryApp.swift */,
+				DF9CE6982B43CFEC00ED76DB /* ColorExtension.swift */,
 				DF9CE68C2B43CE5600ED76DB /* ContentView.swift */,
 				DF9CE68E2B43CE5800ED76DB /* Assets.xcassets */,
 				DF9CE6902B43CE5800ED76DB /* Preview Content */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DF9CE6992B43CFEC00ED76DB /* ColorExtension.swift in Sources */,
 				DF9CE68D2B43CE5600ED76DB /* ContentView.swift in Sources */,
 				DF9CE68B2B43CE5600ED76DB /* MovieGalleryApp.swift in Sources */,
 			);
