@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Revenge-of-the-Sith-20th-Century-Fox-2005.-One-Sheet-2722-X-4022-DS-Style-B_530x@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
