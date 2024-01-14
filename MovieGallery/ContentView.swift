@@ -73,7 +73,6 @@ struct ContentView: View {
                     })
                     .padding(.top, 24)
                 }
-                
                 .background(Color.systemBackground)
                 
             }
